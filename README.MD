@@ -63,8 +63,9 @@ Hey! I'm Maryelem 🤯🧐
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iMaary&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMaary&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMaary&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 <!--
 <img align="center" width=495 src="https://github-readme-stats.vercel.app/api/wakatime?username=iMaary&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117"/>
